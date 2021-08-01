@@ -4,10 +4,7 @@
 
 ## Useful syntax :: the kind of language we all understand
 
-
-
-```markdown Syntax highlighted code block, Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
-
+```
 
 ###  
 
