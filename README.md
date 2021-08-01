@@ -1,37 +1,34 @@
-# Welcome to Surahic Pages
+# Welcome to the Surahic Pages
 
-You can use the [editor on GitHub](https://github.com/surahic/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Useful syntax :: the kind of language we all understand
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+```markdown Syntax highlighted code block, Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+###  
 
-**Bold** and _Italic_ and `Code` text
+- GEMINI : gemini.com/share/qz6d8kfe
+- BLOCKFI : https://blockfi.com/?ref=e67ce9d2
 
-[Link](url) and ![Image](src)
+1. **Be kind**
+2. **Do good**
+
+- COINBASE : https://www.coinbase.com/join/shriva_rx
+- CELSIUS : https://celsiusnetwork.app 109060fa35
+
+_Live and let Live_
+
+- FOLD : https://use.foldapp.com/r/TAJHF47W
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Support or Contact or Questions?
+'God Helps Those Who Help Themselves...and maybe others'
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surahic/web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
