@@ -1,4 +1,4 @@
-## Useful syntax :: the kind of language we all understand
+Useful syntax :: the kind of language we all understand
 
 ```markdown
 
