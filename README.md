@@ -17,5 +17,5 @@ _Surahic_
 
 ```
 
-### Need Support or Questions?
+### Need Support?
 God Helps Those Who Help Themselves...
