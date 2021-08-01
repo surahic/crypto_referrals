@@ -13,8 +13,9 @@ Useful syntax :: the kind of language we all understand
 
 1. **Be kind**
 2. **Do good**
-3. _Live and let Live_
+3. **Live and let Live**
 
+-_Surahic_
 ```
 
 ### Need Support or Questions?
