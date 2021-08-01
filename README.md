@@ -10,21 +10,19 @@
 
 - GEMINI : gemini.com/share/qz6d8kfe
 - BLOCKFI : https://blockfi.com/?ref=e67ce9d2
+- COINBASE : https://www.coinbase.com/join/shriva_rx
+- CELSIUS : https://celsiusnetwork.app 109060fa35
+- FOLD : https://use.foldapp.com/r/TAJHF47W
+
 
 1. **Be kind**
 2. **Do good**
-
-- COINBASE : https://www.coinbase.com/join/shriva_rx
-- CELSIUS : https://celsiusnetwork.app 109060fa35
-
-_Live and let Live_
-
-- FOLD : https://use.foldapp.com/r/TAJHF47W
+3. _Live and let Live_
 
 ```
 
-### Support or Contact or Questions?
-'God Helps Those Who Help Themselves...and maybe others'
+### Need Support or Questions?
+'God Helps Those Who Help Themselves'...narayan narayan
 
 
 
