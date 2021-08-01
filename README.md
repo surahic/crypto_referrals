@@ -19,5 +19,3 @@ _Surahic_
 
 ### Need Support or Questions?
 God Helps Those Who Help Themselves...
-
-
