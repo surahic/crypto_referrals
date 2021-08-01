@@ -1,6 +1,6 @@
 ```markdown
 
-# Useful syntax :: The kind of language we all understand
+**Useful syntax :: The kind of language we all understand**
 Sign up using the below referrals
 
 - GEMINI : gemini.com/share/qz6d8kfe --> get 10USD in bitcoin on signup and trade 100USD in 30 days
