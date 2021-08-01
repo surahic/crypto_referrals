@@ -4,7 +4,7 @@
 
 ## Useful syntax :: the kind of language we all understand
 
-```
+```markdown
 
 ###  
 
