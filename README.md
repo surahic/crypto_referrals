@@ -15,7 +15,8 @@ Useful syntax :: the kind of language we all understand
 2. **Do good**
 3. **Live and let Live**
 
--_Surahic_
+_Surahic_
+
 ```
 
 ### Need Support or Questions?
