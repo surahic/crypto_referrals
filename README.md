@@ -1,4 +1,4 @@
-# Welcome to the Surahic Pages
+Welcome to the Surahic Pages
 ## Useful syntax :: the kind of language we all understand
 
 ```markdown
