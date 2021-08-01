@@ -10,7 +10,7 @@ Sign up using the below referrals
 - FOLD : https://use.foldapp.com/r/TAJHF47W --> 5,000 sats just for signing up with this link
 - CASH APP : https://cash.app --> get 5USD on sign up with code MPFZRZB
 - LOLLI : https://lolli.com/share/3zEBDefcZs --> get bitcoin every time you shop
-
+[gemini.com/share/qz6d8kfe]
 
 1. **Be kind**
 2. **Do good**
