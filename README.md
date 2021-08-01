@@ -20,5 +20,5 @@ _Surahic_
 
 ```
 
-### Need Support?
-God Helps Those Who Help Themselves...
+### Need to contact Support?
+sure...Support Helps Those Who Help Themselves...narayan narayan
