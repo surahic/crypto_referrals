@@ -16,7 +16,7 @@ Sign up using the below referrals
 2. **Do good**
 3. **Live and Let Live**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp_Surahic_
+_Surahic_
 
 ```
 
