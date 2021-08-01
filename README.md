@@ -11,7 +11,7 @@
 
 1. **Be kind**
 2. **Do good**
-3. **Live and let Live**
+3. **Live and Let Live**
 
 _Surahic_
 
