@@ -1,6 +1,6 @@
 ```markdown
 
-###  Useful syntax :: the kind of language we all understand
+##  Useful syntax :: the kind of language we all understand
 
 - GEMINI : gemini.com/share/qz6d8kfe
 - BLOCKFI : https://blockfi.com/?ref=e67ce9d2
