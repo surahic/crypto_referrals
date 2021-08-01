@@ -11,9 +11,6 @@ Sign up using the below referrals
 - CASH APP : https://cash.app --> get 5USD on sign up with code MPFZRZB
 - LOLLI : https://lolli.com/share/3zEBDefcZs --> get bitcoin every time you shop
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
 
 1. **Be kind**
 2. **Do good**
