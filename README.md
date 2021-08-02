@@ -1,6 +1,6 @@
 
 
-**What's Useful syntax?  The kind of language we all understand**
+**What's useful syntax?  The kind of language we all understand.**
 
 ### Sign up using the below links
 
