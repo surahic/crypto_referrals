@@ -1,6 +1,8 @@
+
+
 **Useful syntax :: The kind of language we all understand**
 
-Sign up using the below links
+### Sign up using the below links
 
 - GEMINI : [use this link](https://gemini.com/share/qz6d8kfe) --> get **10USD** in bitcoin on signup and trade 100USD in 30 days
 - BLOCKFI : [use this link](https://blockfi.com/?ref=e67ce9d2) --> get **10USD** in bitcoin on signup and deposit 100USD
@@ -17,7 +19,7 @@ Sign up using the below links
 
 _Surahic_
 
-```
+
 
 ### Need to contact Support?
 sure...Support Helps Those Who Help Themselves...narayan narayan
