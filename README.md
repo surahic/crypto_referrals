@@ -10,7 +10,7 @@
 - CELSIUS : _[use this link](https://celsiusnetwork.app.link/168531fa35)_ ----> get **50USD** in bitcoin on signup and first transfer of 400USD
 - FOLD : _[use this link](https://use.foldapp.com/r/TAJHF47W)_ ----> **5,000 sats** just for signing up
 - CASH APP : _[use this link](https://cash.app)_ ----> get **5USD** on sign up with code **MPFZRZB**
-- LOLLI : _[use this link](https://lolli.com/share/3zEBDefcZs)_ ----> get bitcoin every time you shop Macy's Samsung Bose BestBuy Expedia and more...
+- LOLLI : _[use this link](https://lolli.com/share/3zEBDefcZs)_ ----> get bitcoin every time you shop Macy's Samsung Expedia and more...
 
 
 1. **Be kind**
@@ -22,4 +22,4 @@ _Surahic_
 
 
 ### Need to contact Support?
-sure...Support Helps Those Who Help Themselves...narayan narayan
+sure...Support helps those who help themselves.
