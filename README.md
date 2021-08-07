@@ -14,7 +14,7 @@
 
 
 _**Live and let live**_ <br>
-<iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-astronauts-artemis-nasagifs-LT6ZhPagaKp2LdVLfz">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 
