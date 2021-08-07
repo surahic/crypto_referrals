@@ -19,5 +19,5 @@
 
 
 ### Need to contact Support?
-sure...Support helps those who help themselves...
-_**Live and let live**_
+sure, Support helps those who help themselves...
+_**live and let live**_
