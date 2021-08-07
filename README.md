@@ -10,13 +10,11 @@
 - CELSIUS : _[use this link](https://celsiusnetwork.app.link/168531fa35)_ ----> get **50USD** in <img src="btc_icon.png" alt="btc" width="25" height="25"> on signup and first transfer of 400USD
 - FOLD : _[use this link](https://use.foldapp.com/r/TAJHF47W)_ ----> **5,000 sats** just for signing up
 - CASH APP : _[use this link](https://cash.app)_ ----> get **5USD** on sign up with code **MPFZRZB**
-- LOLLI : _[use this link](https://lolli.com/share/3zEBDefcZs)_ ----> get <img src="btc_icon.png" alt="btc" width="25" height="25"> every time you shop Macy's Samsung Expedia and many more...
-
-1. **Be kind**
-2. **Do good**
-3. **Live and let live**
+- LOLLI : _[use this link](https://lolli.com/share/3zEBDefcZs)_ ----> get <img src="btc_icon.png" alt="btc" width="25" height="25"> each time you shop @ Macy's Samsung Expedia and many more...
 
 
+_**Live and let live**_ <br>
+<iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-astronauts-artemis-nasagifs-LT6ZhPagaKp2LdVLfz">via GIPHY</a></p>
 
 
 
