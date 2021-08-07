@@ -14,7 +14,7 @@
 
 
 _**Live and let live**_ <br>
-<iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<center><iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 
 
