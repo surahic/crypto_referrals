@@ -14,7 +14,7 @@
 
 
 <br>
-<center><iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="360" height="202.5" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<center><iframe src="giphy.gif" width="360" height="202.5" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 
 
