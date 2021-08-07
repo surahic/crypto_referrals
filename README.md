@@ -1,6 +1,6 @@
 
 
-**What's useful syntax?  The kind of language we all understand.**
+**What's useful syntax?  The kind of language we all understand...**
 
 ### Sign up using the below links
 
@@ -13,10 +13,11 @@
 - LOLLI : _[click here](https://lolli.com/share/3zEBDefcZs)_ ----> get <img src="btc_icon.png" alt="btc" width="25" height="25"> each time you shop @ Macy's Samsung Expedia and many more...
 
 
-_**Live and let live**_ <br>
+<br>
 <center><iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 
 
 ### Need to contact Support?
-sure...Support helps those who help themselves.
+sure...Support helps those who help themselves...
+<center>_**Live and let live**_</center>
