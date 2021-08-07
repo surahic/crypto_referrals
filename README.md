@@ -20,4 +20,4 @@
 
 ### Need to contact Support?
 sure...Support helps those who help themselves...
-<center>_**Live and let live**_</center>
+_**Live and let live**_
