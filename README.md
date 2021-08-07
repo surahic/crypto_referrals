@@ -10,7 +10,7 @@
 - CELSIUS : _[click here](https://celsiusnetwork.app.link/168531fa35)_ ----> get **50USD** in <img src="btc_icon.png" alt="btc" width="25" height="25"> on signup and first transfer of 400USD
 - FOLD : _[click here](https://use.foldapp.com/r/TAJHF47W)_ ----> **5,000 sats** just for signing up
 - CASH APP : _[click here](https://cash.app)_ ----> get **5USD** on sign up with code **MPFZRZB**
-- LOLLI : _[click here](https://lolli.com/share/3zEBDefcZs)_ ----> get <img src="btc_icon.png" alt="btc" width="25" height="25"> each time you shop @ Macy's Samsung Expedia and many more...
+- LOLLI : _[click here](https://lolli.com/share/3zEBDefcZs)_ ----> get <img src="btc_icon.png" alt="btc" width="25" height="25"> each time you shop @ Macy's Samsung Expedia and many more
 
 
 <br>
