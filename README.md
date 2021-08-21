@@ -1,6 +1,6 @@
 
 
-**What's useful syntax?  The kind of language we all understand...**
+**What's useful syntax?  The kind of language we all understand..._live and let live_
 
 ### Sign up using the below links and get rewarded
 
@@ -20,4 +20,3 @@
 
 ### Need to contact Support?
 sure, Support helps those who help themselves...
-_**live and let live**_
