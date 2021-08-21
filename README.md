@@ -1,6 +1,6 @@
 
 
-**What's useful syntax?  The kind of language we all understand..._live and let live_
+**What's useful syntax?  The kind of language we all understand..._live and let live_**
 
 ### Sign up using the below links and get rewarded
 
@@ -14,7 +14,7 @@
 
 
 <br>
-<center><iframe src="giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<center><iframe src="giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe></center>
 
 
 
