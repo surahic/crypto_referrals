@@ -21,4 +21,4 @@
 sure, Support helps those who help themselves...
 
 ### Disclaimer
-This site does not purport to offer financial advice or investment guidance. Do your own research and due diligence.
+This site does not purport to offer financial advice or investment guidance. Please do your own research and due diligence.
