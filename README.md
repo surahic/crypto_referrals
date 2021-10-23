@@ -1,6 +1,6 @@
 
 
-**..._live and let live_**
+**...**
 
 ### Sign up using the below links to earn bitcoin
 
@@ -17,8 +17,7 @@
 <center><iframe src="giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 
-### Need to contact Support?
-sure, Support helps those who help themselves...
+
 
 ### Disclaimer
-This site does not purport to offer financial advice or investment guidance. Please do your own research and due diligence.
+This site does not purport to offer financial advice or investment guidance. Do your own research and due diligence.
