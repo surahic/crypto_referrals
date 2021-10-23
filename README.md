@@ -1,8 +1,8 @@
 
 
-**What's useful syntax?  The kind of language we all understand..._live and let live_**
+**..._live and let live_**
 
-### Sign up using the below links and get rewarded
+### Sign up using the below links to earn bitcoin
 
 - GEMINI : receive **10USD** in <img src="btc_icon.png" alt="btc" width="25" height="25"> on signup and trade 100USD in 30 days _[click here](https://gemini.com/share/qz6d8kfe)_
 - BLOCKFI : receive **10USD** in <img src="btc_icon.png" alt="btc" width="25" height="25"> on signup and deposit 100USD _[click here](https://blockfi.com/?ref=e67ce9d2)_
